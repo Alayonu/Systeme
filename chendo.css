@@ -9,7 +9,7 @@ div{
 }
 input{
 	border: 2px solid lightgray;
-	padding: 15px 70px 15px 10px;
+	padding: 15px 70px 15px 4px;
 	font-size: 17px;
 	margin-bottom: 15px;
 	margin-top: 2px;
@@ -46,7 +46,7 @@ img{
 	background-color: #151e3d;
 	border: none;
 	padding-right: 36px;
-	margin-left: 300px;
+	margin-left: 200px;
 }
 ul li{
 	list-style: none;
@@ -77,7 +77,7 @@ b{
 .whatsapp ul li{
 	list-style: none;
 	cursor: pointer;
-	padding-left: 60px;
+	padding-left: 40px;
 	padding-right: 140px
 }
 .whatsapp ul li a{
