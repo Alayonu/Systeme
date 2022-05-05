@@ -58,7 +58,7 @@ address{
 	list-style: none;
 	cursor: pointer;
 	padding-left: 75px;
-	padding-right: 130px;
+	padding-right: 100px;
 }
 .whatsapp ul li a{
 	text-decoration: none;
@@ -71,7 +71,7 @@ address{
 	border-radius: 40px;
 	padding-left: 17px;
 	padding-right:px;
-	margin-left: 200px;
+	margin-left: 120px;
 }
 .span{
 	display: flex;
