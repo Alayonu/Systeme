@@ -46,10 +46,10 @@ body{
 }
 address{
 	background-color: aliceblue;
-	margin-top: 7px;
+	margin-top: 8px;
 	margin-bottom: 7px;
-	padding-top: 16px;
-	padding-bottom: 16px;
+	padding-top: 18px;
+	padding-bottom: 18px;
 	font-size: 14px;
 }
 .whatsapp ul li{
@@ -67,10 +67,11 @@ address{
 	display: flex;
 	background-color: #151e3d;
 	border-radius: 40px;
-	padding-left: 40%;
+	padding-left: 200px;
 	padding-top: 2px;
 	padding-right: 20px;
 	padding-bottom: 1.5px;
+        margin-top: 3px;
 }
 .span{
 	display: flex;
