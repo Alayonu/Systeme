@@ -88,7 +88,6 @@ address{
 .system{
 	background-color: #151e3d;
 	display: flex;
-	margin-right: 50px;
 	border-radius: 30px;
 	padding-left: 6px;
 }
