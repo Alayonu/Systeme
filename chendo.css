@@ -45,6 +45,7 @@ h3{
 }
 body{
 	font-family: sans-serif;
+	height: 100%;
 }
 address{
 	background-color: aliceblue;
@@ -87,8 +88,8 @@ address{
 .system{
 	background-color: #151e3d;
 	display: flex;
-	margin-right: 120px;
+	margin-right: 50px;
 	border-radius: 30px;
 	padding-left: 6px;
-	margin-left: 300px;
+	margin-left: 100px;
 }
